@@ -17,4 +17,9 @@ Website: https://mytherrablockchain.org
 
 Explorer: https://explorer.mytherrablockchain.org
 
-GitHub (Core): https://github.com/MYTHERRA/MYTblockchain![websitelogomytherra](https://github.com/user-attachments/assets/e5dc1f46-9655-4501-aa1b-579f13e722d7)
+GitHub (Core): https://github.com/MYTHERRA/MYTblockchain
+
+![mytherra1024x1024](https://github.com/user-attachments/assets/c5c601cf-a9af-45b6-a1ab-28dac29e89ef)
+
+
+
