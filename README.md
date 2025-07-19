@@ -15,8 +15,6 @@ mytherra-qt-linux/ → Linux version (e.g. AppImage, ELF or source code)
 🌐 More Information
 Website: https://mytherrablockchain.org
 
-Explorer: https://explorer.mytherrablockchain.org
-
 GitHub (Core): https://github.com/MYTHERRA/MYTblockchain
 
 ![mytherra1024x1024](https://github.com/user-attachments/assets/c5c601cf-a9af-45b6-a1ab-28dac29e89ef)
